@@ -1,0 +1,16 @@
+{
+	"name": "Sleighbound",
+	"tree": {
+		"$className": "DataModel",
+		"ReplicatedStorage": {
+			"$className": "ReplicatedStorage",
+			"Sleighbound": {
+				"$path": "src/ReplicatedStorage/Sleighbound"
+			}
+		},
+		"ServerScriptService": {
+			"$className": "ServerScriptService",
+			"$path": "src/ServerScriptService"
+		}
+	}
+}
