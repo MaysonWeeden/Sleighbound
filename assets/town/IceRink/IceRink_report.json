@@ -1,0 +1,45 @@
+{
+  "modules": {
+    "IceRink_Ice": {
+      "passed": true,
+      "fails": [],
+      "tris": 208,
+      "size": [
+        44.0,
+        26.0,
+        0.58
+      ]
+    },
+    "IceRink_Boards": {
+      "passed": true,
+      "fails": [],
+      "tris": 1112,
+      "size": [
+        49.736,
+        31.613,
+        4.82
+      ]
+    },
+    "IceRink_Lights": {
+      "passed": true,
+      "fails": [],
+      "tris": 1680,
+      "size": [
+        44.894,
+        26.874,
+        0.572
+      ]
+    }
+  },
+  "floating": {
+    "shells": 140,
+    "floating": 0,
+    "examples": []
+  },
+  "total_tris": 3000,
+  "size": [
+    49.7,
+    31.6,
+    4.8
+  ]
+}

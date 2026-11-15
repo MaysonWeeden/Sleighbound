@@ -1,0 +1,206 @@
+{
+  "CandyCane_Large": {
+    "passed": true,
+    "fails": [],
+    "tris": 912,
+    "class": "medium",
+    "budget_note": "ok",
+    "size_studs": [
+      3.099,
+      0.8,
+      8.538
+    ]
+  },
+  "CandyCane_Small": {
+    "passed": true,
+    "fails": [],
+    "tris": 528,
+    "class": "small",
+    "budget_note": "ok",
+    "size_studs": [
+      1.299,
+      0.34,
+      3.24
+    ]
+  },
+  "Present_Small": {
+    "passed": true,
+    "fails": [],
+    "tris": 508,
+    "class": "small",
+    "budget_note": "ok",
+    "size_studs": [
+      1.83,
+      1.6,
+      1.919
+    ]
+  },
+  "Present_Medium": {
+    "passed": true,
+    "fails": [],
+    "tris": 508,
+    "class": "small",
+    "budget_note": "ok",
+    "size_studs": [
+      2.876,
+      2.4,
+      2.901
+    ]
+  },
+  "Present_Large": {
+    "passed": true,
+    "fails": [],
+    "tris": 508,
+    "class": "small",
+    "budget_note": "ok",
+    "size_studs": [
+      3.4,
+      2.8,
+      3.692
+    ]
+  },
+  "Present_Tall": {
+    "passed": true,
+    "fails": [],
+    "tris": 508,
+    "class": "small",
+    "budget_note": "ok",
+    "size_studs": [
+      2.091,
+      1.8,
+      3.614
+    ]
+  },
+  "Present_Flat": {
+    "passed": true,
+    "fails": [],
+    "tris": 508,
+    "class": "small",
+    "budget_note": "ok",
+    "size_studs": [
+      2.8,
+      2.0,
+      1.81
+    ]
+  },
+  "Sack_Small": {
+    "passed": true,
+    "fails": [],
+    "tris": 408,
+    "class": "small",
+    "budget_note": "ok",
+    "size_studs": [
+      1.934,
+      1.9,
+      2.0
+    ]
+  },
+  "Sack_Medium": {
+    "passed": true,
+    "fails": [],
+    "tris": 408,
+    "class": "small",
+    "budget_note": "ok",
+    "size_studs": [
+      2.653,
+      2.851,
+      3.0
+    ]
+  },
+  "Sack_Large": {
+    "passed": true,
+    "fails": [],
+    "tris": 408,
+    "class": "small",
+    "budget_note": "ok",
+    "size_studs": [
+      4.289,
+      4.326,
+      4.5
+    ]
+  },
+  "Pine_Tall": {
+    "passed": true,
+    "fails": [],
+    "tris": 336,
+    "class": "tree",
+    "budget_note": "ok",
+    "size_studs": [
+      8.067,
+      8.452,
+      17.229
+    ]
+  },
+  "Pine_Medium": {
+    "passed": true,
+    "fails": [],
+    "tris": 276,
+    "class": "tree",
+    "budget_note": "ok",
+    "size_studs": [
+      6.1,
+      6.324,
+      10.935
+    ]
+  },
+  "Pine_Small": {
+    "passed": true,
+    "fails": [],
+    "tris": 216,
+    "class": "tree",
+    "budget_note": "ok",
+    "size_studs": [
+      4.486,
+      4.733,
+      6.717
+    ]
+  },
+  "Tree_Frosted": {
+    "passed": true,
+    "fails": [],
+    "tris": 436,
+    "class": "tree",
+    "budget_note": "ok",
+    "size_studs": [
+      6.35,
+      5.054,
+      8.056
+    ]
+  },
+  "Rock_Small": {
+    "passed": true,
+    "fails": [],
+    "tris": 320,
+    "class": "rock",
+    "budget_note": "ok",
+    "size_studs": [
+      2.477,
+      2.01,
+      1.18
+    ]
+  },
+  "Rock_Medium": {
+    "passed": true,
+    "fails": [],
+    "tris": 320,
+    "class": "rock",
+    "budget_note": "ok",
+    "size_studs": [
+      4.967,
+      3.888,
+      2.287
+    ]
+  },
+  "Rock_Cluster": {
+    "passed": true,
+    "fails": [],
+    "tris": 640,
+    "class": "rock",
+    "budget_note": "over target - justify or simplify",
+    "size_studs": [
+      8.05,
+      5.498,
+      3.176
+    ]
+  }
+}

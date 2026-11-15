@@ -1,0 +1,85 @@
+{
+  "modules": {
+    "Apartment_Green_Walls": {
+      "passed": true,
+      "fails": [],
+      "tris": 1728,
+      "size": [
+        34.0,
+        24.0,
+        45.998
+      ]
+    },
+    "Apartment_Green_Trim": {
+      "passed": true,
+      "fails": [],
+      "tris": 3936,
+      "size": [
+        35.8,
+        25.8,
+        46.0
+      ]
+    },
+    "Apartment_Green_Glow": {
+      "passed": true,
+      "fails": [],
+      "tris": 924,
+      "size": [
+        33.16,
+        23.16,
+        43.1
+      ]
+    },
+    "Apartment_Green_Balconies": {
+      "passed": true,
+      "fails": [],
+      "tris": 432,
+      "size": [
+        28.6,
+        1.1,
+        1.05
+      ]
+    },
+    "Apartment_Green_Shopfront": {
+      "passed": true,
+      "fails": [],
+      "tris": 600,
+      "size": [
+        31.2,
+        4.02,
+        12.43
+      ]
+    },
+    "Apartment_Green_Roof": {
+      "passed": true,
+      "fails": [],
+      "tris": 1628,
+      "size": [
+        34.3,
+        24.3,
+        15.3
+      ]
+    },
+    "Apartment_Green_Lights": {
+      "passed": true,
+      "fails": [],
+      "tris": 600,
+      "size": [
+        33.194,
+        0.374,
+        0.6
+      ]
+    }
+  },
+  "floating": {
+    "shells": 684,
+    "floating": 0,
+    "examples": []
+  },
+  "total_tris": 9848,
+  "size": [
+    35.8,
+    28.4,
+    60.6
+  ]
+}

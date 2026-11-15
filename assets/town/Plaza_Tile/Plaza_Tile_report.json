@@ -1,0 +1,35 @@
+{
+  "modules": {
+    "Plaza_Tile_Base": {
+      "passed": true,
+      "fails": [],
+      "tris": 108,
+      "size": [
+        31.998,
+        31.998,
+        0.9
+      ]
+    },
+    "Plaza_Tile_Marks": {
+      "passed": true,
+      "fails": [],
+      "tris": 448,
+      "size": [
+        31.802,
+        31.492,
+        1.264
+      ]
+    }
+  },
+  "floating": {
+    "shells": 26,
+    "floating": 0,
+    "examples": []
+  },
+  "total_tris": 556,
+  "size": [
+    32.0,
+    32.0,
+    2.1
+  ]
+}

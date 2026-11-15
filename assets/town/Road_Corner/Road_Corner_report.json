@@ -1,0 +1,35 @@
+{
+  "modules": {
+    "Road_Corner_Base": {
+      "passed": true,
+      "fails": [],
+      "tris": 108,
+      "size": [
+        31.998,
+        31.998,
+        0.9
+      ]
+    },
+    "Road_Corner_Marks": {
+      "passed": true,
+      "fails": [],
+      "tris": 384,
+      "size": [
+        31.564,
+        31.621,
+        1.652
+      ]
+    }
+  },
+  "floating": {
+    "shells": 25,
+    "floating": 0,
+    "examples": []
+  },
+  "total_tris": 492,
+  "size": [
+    32.0,
+    32.0,
+    2.0
+  ]
+}

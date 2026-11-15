@@ -1,0 +1,95 @@
+{
+  "modules": {
+    "CandyHouse_Lavender_Foundation": {
+      "passed": true,
+      "fails": [],
+      "tris": 44,
+      "size": [
+        20.6,
+        17.6,
+        0.8
+      ]
+    },
+    "CandyHouse_Lavender_Walls": {
+      "passed": true,
+      "fails": [],
+      "tris": 3904,
+      "size": [
+        20.8,
+        17.6,
+        22.344
+      ]
+    },
+    "CandyHouse_Lavender_Roof": {
+      "passed": true,
+      "fails": [],
+      "tris": 1364,
+      "size": [
+        24.2,
+        20.5,
+        13.919
+      ]
+    },
+    "CandyHouse_Lavender_Chimney": {
+      "passed": true,
+      "fails": [],
+      "tris": 748,
+      "size": [
+        3.1,
+        3.1,
+        10.724
+      ]
+    },
+    "CandyHouse_Lavender_Trim": {
+      "passed": true,
+      "fails": [],
+      "tris": 4404,
+      "size": [
+        21.4,
+        18.4,
+        14.806
+      ]
+    },
+    "CandyHouse_Lavender_Glow": {
+      "passed": true,
+      "fails": [],
+      "tris": 108,
+      "size": [
+        19.2,
+        16.2,
+        13.946
+      ]
+    },
+    "CandyHouse_Lavender_Door": {
+      "passed": true,
+      "fails": [],
+      "tris": 876,
+      "size": [
+        6.128,
+        2.7,
+        11.158
+      ]
+    },
+    "CandyHouse_Lavender_Lights": {
+      "passed": true,
+      "fails": [],
+      "tris": 840,
+      "size": [
+        22.694,
+        19.224,
+        11.38
+      ]
+    }
+  },
+  "floating": {
+    "shells": 554,
+    "floating": 0,
+    "examples": []
+  },
+  "total_tris": 12288,
+  "size": [
+    24.2,
+    21.0,
+    26.9
+  ]
+}

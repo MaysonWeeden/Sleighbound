@@ -1,0 +1,85 @@
+{
+  "modules": {
+    "Apartment_Plum_Walls": {
+      "passed": true,
+      "fails": [],
+      "tris": 1752,
+      "size": [
+        26.0,
+        20.0,
+        67.998
+      ]
+    },
+    "Apartment_Plum_Trim": {
+      "passed": true,
+      "fails": [],
+      "tris": 4320,
+      "size": [
+        27.8,
+        21.8,
+        68.0
+      ]
+    },
+    "Apartment_Plum_Glow": {
+      "passed": true,
+      "fails": [],
+      "tris": 996,
+      "size": [
+        25.16,
+        19.16,
+        65.1
+      ]
+    },
+    "Apartment_Plum_Balconies": {
+      "passed": true,
+      "fails": [],
+      "tris": 1320,
+      "size": [
+        19.4,
+        2.7,
+        47.7
+      ]
+    },
+    "Apartment_Plum_Shopfront": {
+      "passed": true,
+      "fails": [],
+      "tris": 456,
+      "size": [
+        23.2,
+        4.02,
+        12.43
+      ]
+    },
+    "Apartment_Plum_Roof": {
+      "passed": true,
+      "fails": [],
+      "tris": 1072,
+      "size": [
+        26.3,
+        20.3,
+        11.1
+      ]
+    },
+    "Apartment_Plum_Lights": {
+      "passed": true,
+      "fails": [],
+      "tris": 1260,
+      "size": [
+        25.194,
+        2.397,
+        54.81
+      ]
+    }
+  },
+  "floating": {
+    "shells": 822,
+    "floating": 0,
+    "examples": []
+  },
+  "total_tris": 11176,
+  "size": [
+    27.8,
+    24.4,
+    78.5
+  ]
+}

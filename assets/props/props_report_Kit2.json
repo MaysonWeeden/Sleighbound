@@ -1,0 +1,566 @@
+{
+  "Lollipop_Red": {
+    "passed": true,
+    "fails": [],
+    "tris": 864,
+    "class": "small",
+    "budget_note": "over target - justify or simplify",
+    "size_studs": [
+      2.6,
+      0.728,
+      5.915
+    ]
+  },
+  "Lollipop_Mint": {
+    "passed": true,
+    "fails": [],
+    "tris": 864,
+    "class": "small",
+    "budget_note": "over target - justify or simplify",
+    "size_studs": [
+      2.0,
+      0.56,
+      4.55
+    ]
+  },
+  "Lollipop_Rainbow": {
+    "passed": true,
+    "fails": [],
+    "tris": 864,
+    "class": "small",
+    "budget_note": "over target - justify or simplify",
+    "size_studs": [
+      3.2,
+      0.896,
+      7.28
+    ]
+  },
+  "Peppermint": {
+    "passed": true,
+    "fails": [],
+    "tris": 336,
+    "class": "small",
+    "budget_note": "ok",
+    "size_studs": [
+      3.0,
+      3.0,
+      0.9
+    ]
+  },
+  "Gumdrop_Red": {
+    "passed": true,
+    "fails": [],
+    "tris": 96,
+    "class": "small",
+    "budget_note": "ok",
+    "size_studs": [
+      2.472,
+      2.472,
+      1.392
+    ]
+  },
+  "Gumdrop_Green": {
+    "passed": true,
+    "fails": [],
+    "tris": 96,
+    "class": "small",
+    "budget_note": "ok",
+    "size_studs": [
+      2.472,
+      2.472,
+      1.392
+    ]
+  },
+  "Gumdrop_Purple": {
+    "passed": true,
+    "fails": [],
+    "tris": 96,
+    "class": "small",
+    "budget_note": "ok",
+    "size_studs": [
+      2.472,
+      2.472,
+      1.392
+    ]
+  },
+  "Gingerbread_Man": {
+    "passed": true,
+    "fails": [],
+    "tris": 480,
+    "class": "small",
+    "budget_note": "ok",
+    "size_studs": [
+      3.172,
+      0.689,
+      4.03
+    ]
+  },
+  "Cookie_Pink": {
+    "passed": true,
+    "fails": [],
+    "tris": 224,
+    "class": "small",
+    "budget_note": "ok",
+    "size_studs": [
+      3.2,
+      3.12,
+      0.707
+    ]
+  },
+  "Cookie_White": {
+    "passed": true,
+    "fails": [],
+    "tris": 224,
+    "class": "small",
+    "budget_note": "ok",
+    "size_studs": [
+      3.2,
+      3.12,
+      0.688
+    ]
+  },
+  "HotCocoa": {
+    "passed": true,
+    "fails": [],
+    "tris": 524,
+    "class": "small",
+    "budget_note": "ok",
+    "size_studs": [
+      3.375,
+      2.515,
+      2.325
+    ]
+  },
+  "CandyCane_Mint": {
+    "passed": true,
+    "fails": [],
+    "tris": 720,
+    "class": "medium",
+    "budget_note": "ok",
+    "size_studs": [
+      2.039,
+      0.54,
+      5.51
+    ]
+  },
+  "Ornament_Red": {
+    "passed": true,
+    "fails": [],
+    "tris": 336,
+    "class": "small",
+    "budget_note": "ok",
+    "size_studs": [
+      1.5,
+      1.462,
+      1.842
+    ]
+  },
+  "Ornament_Blue": {
+    "passed": true,
+    "fails": [],
+    "tris": 336,
+    "class": "small",
+    "budget_note": "ok",
+    "size_studs": [
+      1.5,
+      1.462,
+      1.842
+    ]
+  },
+  "Ornament_Green": {
+    "passed": true,
+    "fails": [],
+    "tris": 336,
+    "class": "small",
+    "budget_note": "ok",
+    "size_studs": [
+      1.5,
+      1.462,
+      1.842
+    ]
+  },
+  "Ornament_Giant": {
+    "passed": true,
+    "fails": [],
+    "tris": 336,
+    "class": "medium",
+    "budget_note": "ok",
+    "size_studs": [
+      5.0,
+      4.875,
+      6.14
+    ]
+  },
+  "Star_Topper": {
+    "passed": true,
+    "fails": [],
+    "tris": 160,
+    "class": "small",
+    "budget_note": "ok",
+    "size_studs": [
+      3.043,
+      1.141,
+      3.17
+    ]
+  },
+  "Bell_Gold": {
+    "passed": true,
+    "fails": [],
+    "tris": 520,
+    "class": "small",
+    "budget_note": "ok",
+    "size_studs": [
+      3.15,
+      3.071,
+      3.748
+    ]
+  },
+  "Wreath": {
+    "passed": true,
+    "fails": [],
+    "tris": 856,
+    "class": "medium",
+    "budget_note": "ok",
+    "size_studs": [
+      3.266,
+      1.049,
+      3.683
+    ]
+  },
+  "Stocking": {
+    "passed": true,
+    "fails": [],
+    "tris": 264,
+    "class": "small",
+    "budget_note": "ok",
+    "size_studs": [
+      2.79,
+      1.14,
+      4.452
+    ]
+  },
+  "Candle": {
+    "passed": true,
+    "fails": [],
+    "tris": 240,
+    "class": "small",
+    "budget_note": "ok",
+    "size_studs": [
+      2.08,
+      2.08,
+      3.484
+    ]
+  },
+  "ChristmasTree_Decorated": {
+    "passed": true,
+    "fails": [],
+    "tris": 2112,
+    "class": "tree",
+    "budget_note": "over target - justify or simplify",
+    "size_studs": [
+      7.22,
+      7.145,
+      14.122
+    ]
+  },
+  "Present_Round": {
+    "passed": true,
+    "fails": [],
+    "tris": 556,
+    "class": "small",
+    "budget_note": "ok",
+    "size_studs": [
+      2.24,
+      2.24,
+      2.13
+    ]
+  },
+  "Present_Stack": {
+    "passed": true,
+    "fails": [],
+    "tris": 1524,
+    "class": "medium",
+    "budget_note": "ok",
+    "size_studs": [
+      3.398,
+      2.8,
+      4.923
+    ]
+  },
+  "LampPost_Candy": {
+    "passed": true,
+    "fails": [],
+    "tris": 828,
+    "class": "medium",
+    "budget_note": "ok",
+    "size_studs": [
+      2.0,
+      1.902,
+      11.42
+    ]
+  },
+  "Lantern": {
+    "passed": true,
+    "fails": [],
+    "tris": 424,
+    "class": "small",
+    "budget_note": "ok",
+    "size_studs": [
+      1.8,
+      1.8,
+      3.696
+    ]
+  },
+  "Bench_Snowy": {
+    "passed": true,
+    "fails": [],
+    "tris": 644,
+    "class": "small",
+    "budget_note": "over target - justify or simplify",
+    "size_studs": [
+      6.0,
+      1.733,
+      3.21
+    ]
+  },
+  "Fence_Picket": {
+    "passed": true,
+    "fails": [],
+    "tris": 532,
+    "class": "small",
+    "budget_note": "ok",
+    "size_studs": [
+      8.0,
+      0.465,
+      3.47
+    ]
+  },
+  "Fence_CandyCane": {
+    "passed": true,
+    "fails": [],
+    "tris": 1968,
+    "class": "medium",
+    "budget_note": "ok",
+    "size_studs": [
+      8.685,
+      0.72,
+      3.86
+    ]
+  },
+  "Signpost": {
+    "passed": true,
+    "fails": [],
+    "tris": 356,
+    "class": "small",
+    "budget_note": "ok",
+    "size_studs": [
+      4.672,
+      0.88,
+      6.157
+    ]
+  },
+  "Mailbox_Santa": {
+    "passed": true,
+    "fails": [],
+    "tris": 272,
+    "class": "small",
+    "budget_note": "ok",
+    "size_studs": [
+      1.3,
+      1.55,
+      4.523
+    ]
+  },
+  "Sled": {
+    "passed": true,
+    "fails": [],
+    "tris": 552,
+    "class": "small",
+    "budget_note": "ok",
+    "size_studs": [
+      3.544,
+      1.8,
+      1.066
+    ]
+  },
+  "Firewood_Stack": {
+    "passed": true,
+    "fails": [],
+    "tris": 288,
+    "class": "small",
+    "budget_note": "ok",
+    "size_studs": [
+      2.785,
+      3.088,
+      2.34
+    ]
+  },
+  "Snowman": {
+    "passed": true,
+    "fails": [],
+    "tris": 856,
+    "class": "medium",
+    "budget_note": "ok",
+    "size_studs": [
+      4.454,
+      2.817,
+      6.161
+    ]
+  },
+  "Snowman_Small": {
+    "passed": true,
+    "fails": [],
+    "tris": 952,
+    "class": "small",
+    "budget_note": "over target - justify or simplify",
+    "size_studs": [
+      2.449,
+      1.549,
+      3.581
+    ]
+  },
+  "SnowPile_Small": {
+    "passed": true,
+    "fails": [],
+    "tris": 320,
+    "class": "rock",
+    "budget_note": "ok",
+    "size_studs": [
+      3.576,
+      2.744,
+      1.06
+    ]
+  },
+  "SnowPile_Large": {
+    "passed": true,
+    "fails": [],
+    "tris": 320,
+    "class": "rock",
+    "budget_note": "ok",
+    "size_studs": [
+      7.978,
+      5.714,
+      2.437
+    ]
+  },
+  "Snowball_Pile": {
+    "passed": true,
+    "fails": [],
+    "tris": 320,
+    "class": "small",
+    "budget_note": "ok",
+    "size_studs": [
+      1.866,
+      1.773,
+      1.671
+    ]
+  },
+  "Bush_Holly": {
+    "passed": true,
+    "fails": [],
+    "tris": 960,
+    "class": "medium",
+    "budget_note": "ok",
+    "size_studs": [
+      3.535,
+      2.273,
+      1.894
+    ]
+  },
+  "Tree_Bare": {
+    "passed": true,
+    "fails": [],
+    "tris": 718,
+    "class": "tree",
+    "budget_note": "ok",
+    "size_studs": [
+      4.989,
+      4.54,
+      8.094
+    ]
+  },
+  "Pine_Heavy": {
+    "passed": true,
+    "fails": [],
+    "tris": 276,
+    "class": "tree",
+    "budget_note": "ok",
+    "size_studs": [
+      7.815,
+      7.53,
+      14.215
+    ]
+  },
+  "Ice_Chunks": {
+    "passed": true,
+    "fails": [],
+    "tris": 80,
+    "class": "small",
+    "budget_note": "ok",
+    "size_studs": [
+      2.515,
+      2.054,
+      2.813
+    ]
+  },
+  "Log_Snowy": {
+    "passed": true,
+    "fails": [],
+    "tris": 102,
+    "class": "small",
+    "budget_note": "ok",
+    "size_studs": [
+      4.0,
+      1.28,
+      1.789
+    ]
+  },
+  "Rock_Tall": {
+    "passed": true,
+    "fails": [],
+    "tris": 320,
+    "class": "rock",
+    "budget_note": "ok",
+    "size_studs": [
+      2.378,
+      2.172,
+      3.982
+    ]
+  },
+  "Rock_Flat": {
+    "passed": true,
+    "fails": [],
+    "tris": 320,
+    "class": "rock",
+    "budget_note": "ok",
+    "size_studs": [
+      7.134,
+      5.399,
+      1.509
+    ]
+  },
+  "Toy_Drum": {
+    "passed": true,
+    "fails": [],
+    "tris": 600,
+    "class": "small",
+    "budget_note": "ok",
+    "size_studs": [
+      2.418,
+      2.184,
+      2.34
+    ]
+  },
+  "Toy_Blocks": {
+    "passed": true,
+    "fails": [],
+    "tris": 132,
+    "class": "small",
+    "budget_note": "ok",
+    "size_studs": [
+      2.873,
+      1.551,
+      2.4
+    ]
+  }
+}

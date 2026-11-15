@@ -1,0 +1,45 @@
+{
+  "modules": {
+    "Stall_Red_Stall": {
+      "passed": true,
+      "fails": [],
+      "tris": 476,
+      "size": [
+        8.5,
+        5.55,
+        9.0
+      ]
+    },
+    "Stall_Red_Canopy": {
+      "passed": true,
+      "fails": [],
+      "tris": 204,
+      "size": [
+        9.0,
+        7.539,
+        2.45
+      ]
+    },
+    "Stall_Red_Lights": {
+      "passed": true,
+      "fails": [],
+      "tris": 180,
+      "size": [
+        8.994,
+        0.374,
+        0.572
+      ]
+    }
+  },
+  "floating": {
+    "shells": 49,
+    "floating": 0,
+    "examples": []
+  },
+  "total_tris": 860,
+  "size": [
+    9.0,
+    7.8,
+    9.4
+  ]
+}

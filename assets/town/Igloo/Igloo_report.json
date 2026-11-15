@@ -1,0 +1,35 @@
+{
+  "modules": {
+    "Igloo_Dome": {
+      "passed": true,
+      "fails": [],
+      "tris": 1380,
+      "size": [
+        14.36,
+        14.539,
+        6.699
+      ]
+    },
+    "Igloo_Door": {
+      "passed": true,
+      "fails": [],
+      "tris": 224,
+      "size": [
+        15.782,
+        13.518,
+        5.338
+      ]
+    }
+  },
+  "floating": {
+    "shells": 94,
+    "floating": 0,
+    "examples": []
+  },
+  "total_tris": 1604,
+  "size": [
+    15.8,
+    17.3,
+    6.7
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "modules": {
+    "DeliveryVan_Body": {
+      "passed": true,
+      "fails": [],
+      "tris": 484,
+      "size": [
+        7.1,
+        14.2,
+        7.711
+      ]
+    },
+    "DeliveryVan_Glow": {
+      "passed": true,
+      "fails": [],
+      "tris": 48,
+      "size": [
+        5.8,
+        14.24,
+        0.7
+      ]
+    }
+  },
+  "floating": {
+    "shells": 25,
+    "floating": 0,
+    "examples": []
+  },
+  "total_tris": 532,
+  "size": [
+    7.1,
+    14.2,
+    7.7
+  ]
+}

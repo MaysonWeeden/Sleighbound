@@ -1,0 +1,35 @@
+{
+  "modules": {
+    "Car_Red_Body": {
+      "passed": true,
+      "fails": [],
+      "tris": 424,
+      "size": [
+        7.1,
+        12.2,
+        5.361
+      ]
+    },
+    "Car_Red_Glow": {
+      "passed": true,
+      "fails": [],
+      "tris": 48,
+      "size": [
+        5.8,
+        12.24,
+        0.7
+      ]
+    }
+  },
+  "floating": {
+    "shells": 20,
+    "floating": 0,
+    "examples": []
+  },
+  "total_tris": 472,
+  "size": [
+    7.1,
+    12.2,
+    5.4
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "modules": {
+    "Road_Straight_Base": {
+      "passed": true,
+      "fails": [],
+      "tris": 108,
+      "size": [
+        31.998,
+        31.998,
+        0.9
+      ]
+    },
+    "Road_Straight_Marks": {
+      "passed": true,
+      "fails": [],
+      "tris": 408,
+      "size": [
+        31.754,
+        31.587,
+        1.716
+      ]
+    }
+  },
+  "floating": {
+    "shells": 27,
+    "floating": 0,
+    "examples": []
+  },
+  "total_tris": 516,
+  "size": [
+    32.0,
+    32.0,
+    2.1
+  ]
+}

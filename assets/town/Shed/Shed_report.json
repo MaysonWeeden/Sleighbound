@@ -1,0 +1,75 @@
+{
+  "modules": {
+    "Shed_Foundation": {
+      "passed": true,
+      "fails": [],
+      "tris": 12,
+      "size": [
+        9.6,
+        8.6,
+        0.5
+      ]
+    },
+    "Shed_Walls": {
+      "passed": true,
+      "fails": [],
+      "tris": 1504,
+      "size": [
+        9.8,
+        8.6,
+        9.924
+      ]
+    },
+    "Shed_Roof": {
+      "passed": true,
+      "fails": [],
+      "tris": 644,
+      "size": [
+        12.2,
+        10.6,
+        5.677
+      ]
+    },
+    "Shed_Door": {
+      "passed": true,
+      "fails": [],
+      "tris": 324,
+      "size": [
+        7.52,
+        6.58,
+        6.568
+      ]
+    },
+    "Shed_Glow": {
+      "passed": true,
+      "fails": [],
+      "tris": 12,
+      "size": [
+        0.2,
+        1.9,
+        1.9
+      ]
+    },
+    "Shed_Lights": {
+      "passed": true,
+      "fails": [],
+      "tris": 200,
+      "size": [
+        10.794,
+        0.374,
+        4.079
+      ]
+    }
+  },
+  "floating": {
+    "shells": 176,
+    "floating": 0,
+    "examples": []
+  },
+  "total_tris": 2696,
+  "size": [
+    12.2,
+    10.6,
+    12.1
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "modules": {
+    "PostOffice_Walls": {
+      "passed": true,
+      "fails": [],
+      "tris": 1212,
+      "size": [
+        38.0,
+        24.0,
+        23.998
+      ]
+    },
+    "PostOffice_Trim": {
+      "passed": true,
+      "fails": [],
+      "tris": 2064,
+      "size": [
+        39.8,
+        25.8,
+        24.0
+      ]
+    },
+    "PostOffice_Glow": {
+      "passed": true,
+      "fails": [],
+      "tris": 480,
+      "size": [
+        37.16,
+        23.16,
+        21.1
+      ]
+    },
+    "PostOffice_Balconies": {
+      "passed": true,
+      "fails": [],
+      "tris": 504,
+      "size": [
+        33.6,
+        1.1,
+        1.05
+      ]
+    },
+    "PostOffice_Shopfront": {
+      "passed": true,
+      "fails": [],
+      "tris": 600,
+      "size": [
+        35.2,
+        4.02,
+        12.43
+      ]
+    },
+    "PostOffice_Roof": {
+      "passed": true,
+      "fails": [],
+      "tris": 1072,
+      "size": [
+        38.3,
+        24.3,
+        11.1
+      ]
+    },
+    "PostOffice_Lights": {
+      "passed": true,
+      "fails": [],
+      "tris": 680,
+      "size": [
+        37.194,
+        0.374,
+        0.6
+      ]
+    }
+  },
+  "floating": {
+    "shells": 447,
+    "floating": 0,
+    "examples": []
+  },
+  "total_tris": 6612,
+  "size": [
+    39.8,
+    28.4,
+    34.5
+  ]
+}

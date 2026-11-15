@@ -1,0 +1,25 @@
+{
+  "modules": {
+    "StopSign": {
+      "passed": true,
+      "fails": [],
+      "tris": 184,
+      "size": [
+        2.864,
+        1.191,
+        9.37
+      ]
+    }
+  },
+  "floating": {
+    "shells": 9,
+    "floating": 0,
+    "examples": []
+  },
+  "total_tris": 184,
+  "size": [
+    2.9,
+    1.2,
+    9.4
+  ]
+}

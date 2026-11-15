@@ -1,0 +1,25 @@
+{
+  "modules": {
+    "Hydrant": {
+      "passed": true,
+      "fails": [],
+      "tris": 396,
+      "size": [
+        2.1,
+        1.691,
+        3.0
+      ]
+    }
+  },
+  "floating": {
+    "shells": 12,
+    "floating": 0,
+    "examples": []
+  },
+  "total_tris": 396,
+  "size": [
+    2.1,
+    1.7,
+    3.0
+  ]
+}

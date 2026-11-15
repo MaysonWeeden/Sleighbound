@@ -1,0 +1,35 @@
+{
+  "modules": {
+    "BusStop_Shelter": {
+      "passed": true,
+      "fails": [],
+      "tris": 180,
+      "size": [
+        11.55,
+        4.55,
+        9.1
+      ]
+    },
+    "BusStop_Glass": {
+      "passed": true,
+      "fails": [],
+      "tris": 24,
+      "size": [
+        8.9,
+        3.1,
+        5.8
+      ]
+    }
+  },
+  "floating": {
+    "shells": 16,
+    "floating": 0,
+    "examples": []
+  },
+  "total_tris": 204,
+  "size": [
+    11.5,
+    4.6,
+    9.1
+  ]
+}

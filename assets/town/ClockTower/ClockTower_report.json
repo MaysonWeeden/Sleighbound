@@ -1,0 +1,55 @@
+{
+  "modules": {
+    "ClockTower_Tower": {
+      "passed": true,
+      "fails": [],
+      "tris": 132,
+      "size": [
+        12.4,
+        12.4,
+        35.02
+      ]
+    },
+    "ClockTower_Trim": {
+      "passed": true,
+      "fails": [],
+      "tris": 1552,
+      "size": [
+        11.56,
+        14.38,
+        35.25
+      ]
+    },
+    "ClockTower_Glow": {
+      "passed": true,
+      "fails": [],
+      "tris": 416,
+      "size": [
+        10.9,
+        10.9,
+        26.961
+      ]
+    },
+    "ClockTower_Roof": {
+      "passed": true,
+      "fails": [],
+      "tris": 260,
+      "size": [
+        16.056,
+        16.056,
+        24.35
+      ]
+    }
+  },
+  "floating": {
+    "shells": 136,
+    "floating": 0,
+    "examples": []
+  },
+  "total_tris": 2360,
+  "size": [
+    16.1,
+    16.6,
+    59.3
+  ]
+}

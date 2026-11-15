@@ -1,0 +1,95 @@
+{
+  "modules": {
+    "CandyHouse_Foundation": {
+      "passed": true,
+      "fails": [],
+      "tris": 44,
+      "size": [
+        23.6,
+        19.6,
+        0.8
+      ]
+    },
+    "CandyHouse_Walls": {
+      "passed": true,
+      "fails": [],
+      "tris": 3856,
+      "size": [
+        23.8,
+        19.6,
+        20.974
+      ]
+    },
+    "CandyHouse_Roof": {
+      "passed": true,
+      "fails": [],
+      "tris": 1480,
+      "size": [
+        27.2,
+        22.5,
+        12.214
+      ]
+    },
+    "CandyHouse_Chimney": {
+      "passed": true,
+      "fails": [],
+      "tris": 660,
+      "size": [
+        3.1,
+        3.1,
+        9.733
+      ]
+    },
+    "CandyHouse_Trim": {
+      "passed": true,
+      "fails": [],
+      "tris": 5108,
+      "size": [
+        24.4,
+        20.4,
+        14.806
+      ]
+    },
+    "CandyHouse_Glow": {
+      "passed": true,
+      "fails": [],
+      "tris": 108,
+      "size": [
+        22.2,
+        18.2,
+        13.946
+      ]
+    },
+    "CandyHouse_Door": {
+      "passed": true,
+      "fails": [],
+      "tris": 884,
+      "size": [
+        6.128,
+        2.7,
+        11.158
+      ]
+    },
+    "CandyHouse_Lights": {
+      "passed": true,
+      "fails": [],
+      "tris": 960,
+      "size": [
+        25.694,
+        21.224,
+        9.904
+      ]
+    }
+  },
+  "floating": {
+    "shells": 574,
+    "floating": 0,
+    "examples": []
+  },
+  "total_tris": 13100,
+  "size": [
+    27.2,
+    23.0,
+    25.5
+  ]
+}

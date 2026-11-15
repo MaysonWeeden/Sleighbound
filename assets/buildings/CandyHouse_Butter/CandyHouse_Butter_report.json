@@ -1,0 +1,105 @@
+{
+  "modules": {
+    "CandyHouse_Butter_Foundation": {
+      "passed": true,
+      "fails": [],
+      "tris": 44,
+      "size": [
+        24.6,
+        19.6,
+        0.8
+      ]
+    },
+    "CandyHouse_Butter_Walls": {
+      "passed": true,
+      "fails": [],
+      "tris": 7168,
+      "size": [
+        24.8,
+        19.6,
+        32.083
+      ]
+    },
+    "CandyHouse_Butter_Roof": {
+      "passed": true,
+      "fails": [],
+      "tris": 1480,
+      "size": [
+        28.2,
+        22.5,
+        11.201
+      ]
+    },
+    "CandyHouse_Butter_Chimney": {
+      "passed": true,
+      "fails": [],
+      "tris": 616,
+      "size": [
+        3.1,
+        3.1,
+        9.163
+      ]
+    },
+    "CandyHouse_Butter_Trim": {
+      "passed": true,
+      "fails": [],
+      "tris": 5108,
+      "size": [
+        25.4,
+        20.4,
+        26.738
+      ]
+    },
+    "CandyHouse_Butter_Trim2": {
+      "passed": true,
+      "fails": [],
+      "tris": 5136,
+      "size": [
+        25.4,
+        20.4,
+        6.434
+      ]
+    },
+    "CandyHouse_Butter_Glow": {
+      "passed": true,
+      "fails": [],
+      "tris": 216,
+      "size": [
+        23.2,
+        18.2,
+        25.878
+      ]
+    },
+    "CandyHouse_Butter_Door": {
+      "passed": true,
+      "fails": [],
+      "tris": 876,
+      "size": [
+        6.128,
+        2.7,
+        10.85
+      ]
+    },
+    "CandyHouse_Butter_Lights": {
+      "passed": true,
+      "fails": [],
+      "tris": 980,
+      "size": [
+        26.694,
+        21.224,
+        9.47
+      ]
+    }
+  },
+  "floating": {
+    "shells": 979,
+    "floating": 0,
+    "examples": []
+  },
+  "total_tris": 21624,
+  "size": [
+    28.2,
+    23.0,
+    36.6
+  ]
+}

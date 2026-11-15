@@ -1,0 +1,514 @@
+{
+ "CandyCane_Large": {
+  "category": "Kit1",
+  "size": [
+   3.1,
+   0.8,
+   8.54
+  ]
+ },
+ "CandyCane_Small": {
+  "category": "Kit1",
+  "size": [
+   1.3,
+   0.34,
+   3.24
+  ]
+ },
+ "Present_Small": {
+  "category": "Kit1",
+  "size": [
+   1.83,
+   1.6,
+   1.92
+  ]
+ },
+ "Present_Medium": {
+  "category": "Kit1",
+  "size": [
+   2.88,
+   2.4,
+   2.9
+  ]
+ },
+ "Present_Large": {
+  "category": "Kit1",
+  "size": [
+   3.4,
+   2.8,
+   3.69
+  ]
+ },
+ "Present_Tall": {
+  "category": "Kit1",
+  "size": [
+   2.09,
+   1.8,
+   3.61
+  ]
+ },
+ "Present_Flat": {
+  "category": "Kit1",
+  "size": [
+   2.8,
+   2.0,
+   1.81
+  ]
+ },
+ "Sack_Small": {
+  "category": "Kit1",
+  "size": [
+   1.93,
+   1.9,
+   2.0
+  ]
+ },
+ "Sack_Medium": {
+  "category": "Kit1",
+  "size": [
+   2.65,
+   2.85,
+   3.0
+  ]
+ },
+ "Sack_Large": {
+  "category": "Kit1",
+  "size": [
+   4.29,
+   4.33,
+   4.5
+  ]
+ },
+ "Pine_Tall": {
+  "category": "Kit1",
+  "size": [
+   8.07,
+   8.45,
+   17.23
+  ]
+ },
+ "Pine_Medium": {
+  "category": "Kit1",
+  "size": [
+   6.1,
+   6.32,
+   10.93
+  ]
+ },
+ "Pine_Small": {
+  "category": "Kit1",
+  "size": [
+   4.49,
+   4.73,
+   6.72
+  ]
+ },
+ "Tree_Frosted": {
+  "category": "Kit1",
+  "size": [
+   6.35,
+   5.05,
+   8.06
+  ]
+ },
+ "Rock_Small": {
+  "category": "Kit1",
+  "size": [
+   2.48,
+   2.01,
+   1.18
+  ]
+ },
+ "Rock_Medium": {
+  "category": "Kit1",
+  "size": [
+   4.97,
+   3.89,
+   2.29
+  ]
+ },
+ "Rock_Cluster": {
+  "category": "Kit1",
+  "size": [
+   8.05,
+   5.5,
+   3.18
+  ]
+ },
+ "Lollipop_Red": {
+  "category": "Sweets",
+  "size": [
+   2.6,
+   0.73,
+   5.91
+  ]
+ },
+ "Lollipop_Mint": {
+  "category": "Sweets",
+  "size": [
+   2.0,
+   0.56,
+   4.55
+  ]
+ },
+ "Lollipop_Rainbow": {
+  "category": "Sweets",
+  "size": [
+   3.2,
+   0.9,
+   7.28
+  ]
+ },
+ "Peppermint": {
+  "category": "Sweets",
+  "size": [
+   3.0,
+   3.0,
+   0.9
+  ]
+ },
+ "Gumdrop_Red": {
+  "category": "Sweets",
+  "size": [
+   2.47,
+   2.47,
+   1.39
+  ]
+ },
+ "Gumdrop_Green": {
+  "category": "Sweets",
+  "size": [
+   2.47,
+   2.47,
+   1.39
+  ]
+ },
+ "Gumdrop_Purple": {
+  "category": "Sweets",
+  "size": [
+   2.47,
+   2.47,
+   1.39
+  ]
+ },
+ "Gingerbread_Man": {
+  "category": "Sweets",
+  "size": [
+   3.17,
+   0.69,
+   4.03
+  ]
+ },
+ "Cookie_Pink": {
+  "category": "Sweets",
+  "size": [
+   3.2,
+   3.12,
+   0.71
+  ]
+ },
+ "Cookie_White": {
+  "category": "Sweets",
+  "size": [
+   3.2,
+   3.12,
+   0.69
+  ]
+ },
+ "HotCocoa": {
+  "category": "Sweets",
+  "size": [
+   3.38,
+   2.52,
+   2.32
+  ]
+ },
+ "CandyCane_Mint": {
+  "category": "Sweets",
+  "size": [
+   2.04,
+   0.54,
+   5.51
+  ]
+ },
+ "Ornament_Red": {
+  "category": "Decor",
+  "size": [
+   1.5,
+   1.46,
+   1.84
+  ]
+ },
+ "Ornament_Blue": {
+  "category": "Decor",
+  "size": [
+   1.5,
+   1.46,
+   1.84
+  ]
+ },
+ "Ornament_Green": {
+  "category": "Decor",
+  "size": [
+   1.5,
+   1.46,
+   1.84
+  ]
+ },
+ "Ornament_Giant": {
+  "category": "Decor",
+  "size": [
+   5.0,
+   4.87,
+   6.14
+  ]
+ },
+ "Star_Topper": {
+  "category": "Decor",
+  "size": [
+   3.04,
+   1.14,
+   3.17
+  ]
+ },
+ "Bell_Gold": {
+  "category": "Decor",
+  "size": [
+   3.15,
+   3.07,
+   3.75
+  ]
+ },
+ "Wreath": {
+  "category": "Decor",
+  "size": [
+   3.27,
+   1.05,
+   3.68
+  ]
+ },
+ "Stocking": {
+  "category": "Decor",
+  "size": [
+   2.79,
+   1.14,
+   4.45
+  ]
+ },
+ "Candle": {
+  "category": "Decor",
+  "size": [
+   2.08,
+   2.08,
+   3.48
+  ]
+ },
+ "ChristmasTree_Decorated": {
+  "category": "Decor",
+  "size": [
+   7.22,
+   7.14,
+   14.12
+  ]
+ },
+ "Present_Round": {
+  "category": "Decor",
+  "size": [
+   2.24,
+   2.24,
+   2.13
+  ]
+ },
+ "Present_Stack": {
+  "category": "Decor",
+  "size": [
+   3.4,
+   2.8,
+   4.92
+  ]
+ },
+ "LampPost_Candy": {
+  "category": "Street",
+  "size": [
+   2.0,
+   1.9,
+   11.42
+  ]
+ },
+ "Lantern": {
+  "category": "Street",
+  "size": [
+   1.8,
+   1.8,
+   3.7
+  ]
+ },
+ "Bench_Snowy": {
+  "category": "Street",
+  "size": [
+   6.0,
+   1.73,
+   3.21
+  ]
+ },
+ "Fence_Picket": {
+  "category": "Street",
+  "size": [
+   8.0,
+   0.46,
+   3.47
+  ]
+ },
+ "Fence_CandyCane": {
+  "category": "Street",
+  "size": [
+   8.68,
+   0.72,
+   3.86
+  ]
+ },
+ "Signpost": {
+  "category": "Street",
+  "size": [
+   4.67,
+   0.88,
+   6.16
+  ]
+ },
+ "Mailbox_Santa": {
+  "category": "Street",
+  "size": [
+   1.3,
+   1.55,
+   4.52
+  ]
+ },
+ "Sled": {
+  "category": "Street",
+  "size": [
+   3.54,
+   1.8,
+   1.07
+  ]
+ },
+ "Firewood_Stack": {
+  "category": "Street",
+  "size": [
+   2.78,
+   3.09,
+   2.34
+  ]
+ },
+ "Snowman": {
+  "category": "Nature",
+  "size": [
+   4.45,
+   2.82,
+   6.16
+  ]
+ },
+ "Snowman_Small": {
+  "category": "Nature",
+  "size": [
+   2.45,
+   1.55,
+   3.58
+  ]
+ },
+ "SnowPile_Small": {
+  "category": "Nature",
+  "size": [
+   3.58,
+   2.74,
+   1.06
+  ]
+ },
+ "SnowPile_Large": {
+  "category": "Nature",
+  "size": [
+   7.98,
+   5.71,
+   2.44
+  ]
+ },
+ "Snowball_Pile": {
+  "category": "Nature",
+  "size": [
+   1.87,
+   1.77,
+   1.67
+  ]
+ },
+ "Bush_Holly": {
+  "category": "Nature",
+  "size": [
+   3.54,
+   2.27,
+   1.89
+  ]
+ },
+ "Tree_Bare": {
+  "category": "Nature",
+  "size": [
+   4.99,
+   4.54,
+   8.09
+  ]
+ },
+ "Pine_Heavy": {
+  "category": "Nature",
+  "size": [
+   7.81,
+   7.53,
+   14.22
+  ]
+ },
+ "Ice_Chunks": {
+  "category": "Nature",
+  "size": [
+   2.52,
+   2.05,
+   2.81
+  ]
+ },
+ "Log_Snowy": {
+  "category": "Nature",
+  "size": [
+   4.0,
+   1.28,
+   1.79
+  ]
+ },
+ "Rock_Tall": {
+  "category": "Nature",
+  "size": [
+   2.38,
+   2.17,
+   3.98
+  ]
+ },
+ "Rock_Flat": {
+  "category": "Nature",
+  "size": [
+   7.13,
+   5.4,
+   1.51
+  ]
+ },
+ "Toy_Drum": {
+  "category": "Toys",
+  "size": [
+   2.42,
+   2.18,
+   2.34
+  ]
+ },
+ "Toy_Blocks": {
+  "category": "Toys",
+  "size": [
+   2.87,
+   1.55,
+   2.4
+  ]
+ }
+}

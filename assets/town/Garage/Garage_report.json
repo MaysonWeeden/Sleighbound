@@ -1,0 +1,75 @@
+{
+  "modules": {
+    "Garage_Foundation": {
+      "passed": true,
+      "fails": [],
+      "tris": 24,
+      "size": [
+        15.6,
+        23.3,
+        0.5
+      ]
+    },
+    "Garage_Walls": {
+      "passed": true,
+      "fails": [],
+      "tris": 1960,
+      "size": [
+        15.8,
+        19.6,
+        12.647
+      ]
+    },
+    "Garage_Roof": {
+      "passed": true,
+      "fails": [],
+      "tris": 1312,
+      "size": [
+        18.2,
+        21.6,
+        6.107
+      ]
+    },
+    "Garage_Door": {
+      "passed": true,
+      "fails": [],
+      "tris": 248,
+      "size": [
+        13.75,
+        11.82,
+        7.7
+      ]
+    },
+    "Garage_Glow": {
+      "passed": true,
+      "fails": [],
+      "tris": 48,
+      "size": [
+        10.5,
+        10.73,
+        3.25
+      ]
+    },
+    "Garage_Lights": {
+      "passed": true,
+      "fails": [],
+      "tris": 280,
+      "size": [
+        16.794,
+        0.374,
+        4.571
+      ]
+    }
+  },
+  "floating": {
+    "shells": 235,
+    "floating": 0,
+    "examples": []
+  },
+  "total_tris": 3872,
+  "size": [
+    18.2,
+    24.3,
+    14.9
+  ]
+}

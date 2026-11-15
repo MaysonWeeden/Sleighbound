@@ -1,0 +1,329 @@
+{
+ "Road_Straight": {
+  "modules": [
+   "Road_Straight_Base",
+   "Road_Straight_Marks"
+  ],
+  "x": 16.0,
+  "y": 0.0,
+  "size": [
+   32.0,
+   32.0,
+   2.1
+  ]
+ },
+ "Road_Corner": {
+  "modules": [
+   "Road_Corner_Base",
+   "Road_Corner_Marks"
+  ],
+  "x": 60.0,
+  "y": 0.0,
+  "size": [
+   32.0,
+   32.0,
+   2.0
+  ]
+ },
+ "Road_T": {
+  "modules": [
+   "Road_T_Base",
+   "Road_T_Marks"
+  ],
+  "x": 104.0,
+  "y": 0.0,
+  "size": [
+   32.0,
+   32.0,
+   2.1
+  ]
+ },
+ "Road_Cross": {
+  "modules": [
+   "Road_Cross_Base",
+   "Road_Cross_Marks"
+  ],
+  "x": 148.0,
+  "y": 0.0,
+  "size": [
+   32.0,
+   32.0,
+   2.1
+  ]
+ },
+ "Road_Crosswalk": {
+  "modules": [
+   "Road_Crosswalk_Base",
+   "Road_Crosswalk_Marks"
+  ],
+  "x": 192.0,
+  "y": 0.0,
+  "size": [
+   32.0,
+   32.0,
+   2.1
+  ]
+ },
+ "Plaza_Tile": {
+  "modules": [
+   "Plaza_Tile_Base",
+   "Plaza_Tile_Marks"
+  ],
+  "x": 236.0,
+  "y": 0.0,
+  "size": [
+   32.0,
+   32.0,
+   2.1
+  ]
+ },
+ "Stall_Red": {
+  "modules": [
+   "Stall_Red_Stall",
+   "Stall_Red_Canopy",
+   "Stall_Red_Lights"
+  ],
+  "x": 4.5,
+  "y": 50.0,
+  "size": [
+   9.0,
+   7.8,
+   9.4
+  ]
+ },
+ "Stall_Green": {
+  "modules": [
+   "Stall_Green_Stall",
+   "Stall_Green_Canopy",
+   "Stall_Green_Lights"
+  ],
+  "x": 25.5,
+  "y": 50.0,
+  "size": [
+   9.0,
+   7.8,
+   9.4
+  ]
+ },
+ "Stall_Blue": {
+  "modules": [
+   "Stall_Blue_Stall",
+   "Stall_Blue_Canopy",
+   "Stall_Blue_Lights"
+  ],
+  "x": 46.5,
+  "y": 50.0,
+  "size": [
+   9.0,
+   7.8,
+   9.4
+  ]
+ },
+ "Garage": {
+  "modules": [
+   "Garage_Foundation",
+   "Garage_Walls",
+   "Garage_Roof",
+   "Garage_Door",
+   "Garage_Glow",
+   "Garage_Lights"
+  ],
+  "x": 72.1,
+  "y": 50.0,
+  "size": [
+   18.2,
+   24.3,
+   14.9
+  ]
+ },
+ "Shed": {
+  "modules": [
+   "Shed_Foundation",
+   "Shed_Walls",
+   "Shed_Roof",
+   "Shed_Door",
+   "Shed_Glow",
+   "Shed_Lights"
+  ],
+  "x": 99.3,
+  "y": 50.0,
+  "size": [
+   12.2,
+   10.6,
+   12.1
+  ]
+ },
+ "Igloo": {
+  "modules": [
+   "Igloo_Dome",
+   "Igloo_Door"
+  ],
+  "x": 125.3,
+  "y": 50.0,
+  "size": [
+   15.8,
+   17.3,
+   6.7
+  ]
+ },
+ "ClockTower": {
+  "modules": [
+   "ClockTower_Tower",
+   "ClockTower_Trim",
+   "ClockTower_Glow",
+   "ClockTower_Roof"
+  ],
+  "x": 8.05,
+  "y": 90.0,
+  "size": [
+   16.1,
+   16.6,
+   59.3
+  ]
+ },
+ "TreePlaza": {
+  "modules": [
+   "TreePlaza_Plaza",
+   "TreePlaza_Tree",
+   "TreePlaza_Decor",
+   "TreePlaza_Lights",
+   "TreePlaza_Star"
+  ],
+  "x": 45.0,
+  "y": 90.0,
+  "size": [
+   33.8,
+   33.8,
+   31.2
+  ]
+ },
+ "IceRink": {
+  "modules": [
+   "IceRink_Ice",
+   "IceRink_Boards",
+   "IceRink_Lights"
+  ],
+  "x": 98.75,
+  "y": 90.0,
+  "size": [
+   49.7,
+   31.6,
+   4.8
+  ]
+ },
+ "Hydrant": {
+  "modules": [
+   "Hydrant"
+  ],
+  "x": 1.05,
+  "y": 135.0,
+  "size": [
+   2.1,
+   1.7,
+   3.0
+  ]
+ },
+ "StopSign": {
+  "modules": [
+   "StopSign"
+  ],
+  "x": 15.55,
+  "y": 135.0,
+  "size": [
+   2.9,
+   1.2,
+   9.4
+  ]
+ },
+ "TrafficLight": {
+  "modules": [
+   "TrafficLight_Pole",
+   "TrafficLight_Glow"
+  ],
+  "x": 33.5,
+  "y": 135.0,
+  "size": [
+   9.0,
+   1.6,
+   13.1
+  ]
+ },
+ "BusStop": {
+  "modules": [
+   "BusStop_Shelter",
+   "BusStop_Glass"
+  ],
+  "x": 55.75,
+  "y": 135.0,
+  "size": [
+   11.5,
+   4.6,
+   9.1
+  ]
+ },
+ "PhoneBooth": {
+  "modules": [
+   "PhoneBooth_Booth",
+   "PhoneBooth_Glow"
+  ],
+  "x": 75.55,
+  "y": 135.0,
+  "size": [
+   4.1,
+   4.1,
+   9.7
+  ]
+ },
+ "Car_Red": {
+  "modules": [
+   "Car_Red_Body",
+   "Car_Red_Glow"
+  ],
+  "x": 93.15,
+  "y": 135.0,
+  "size": [
+   7.1,
+   12.2,
+   5.4
+  ]
+ },
+ "Car_Blue": {
+  "modules": [
+   "Car_Blue_Body",
+   "Car_Blue_Glow"
+  ],
+  "x": 112.25,
+  "y": 135.0,
+  "size": [
+   7.1,
+   12.2,
+   5.4
+  ]
+ },
+ "Car_Green": {
+  "modules": [
+   "Car_Green_Body",
+   "Car_Green_Glow"
+  ],
+  "x": 131.35,
+  "y": 135.0,
+  "size": [
+   7.1,
+   12.2,
+   5.4
+  ]
+ },
+ "DeliveryVan": {
+  "modules": [
+   "DeliveryVan_Body",
+   "DeliveryVan_Glow"
+  ],
+  "x": 150.45,
+  "y": 135.0,
+  "size": [
+   7.1,
+   14.2,
+   7.7
+  ]
+ }
+}

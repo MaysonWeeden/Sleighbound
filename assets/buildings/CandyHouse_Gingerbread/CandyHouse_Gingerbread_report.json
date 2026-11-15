@@ -1,0 +1,95 @@
+{
+  "modules": {
+    "CandyHouse_Gingerbread_Foundation": {
+      "passed": true,
+      "fails": [],
+      "tris": 44,
+      "size": [
+        22.6,
+        18.6,
+        0.8
+      ]
+    },
+    "CandyHouse_Gingerbread_Walls": {
+      "passed": true,
+      "fails": [],
+      "tris": 3904,
+      "size": [
+        22.8,
+        18.6,
+        22.612
+      ]
+    },
+    "CandyHouse_Gingerbread_Roof": {
+      "passed": true,
+      "fails": [],
+      "tris": 1416,
+      "size": [
+        26.2,
+        21.5,
+        14.015
+      ]
+    },
+    "CandyHouse_Gingerbread_Chimney": {
+      "passed": true,
+      "fails": [],
+      "tris": 748,
+      "size": [
+        3.1,
+        3.1,
+        10.767
+      ]
+    },
+    "CandyHouse_Gingerbread_Trim": {
+      "passed": true,
+      "fails": [],
+      "tris": 5108,
+      "size": [
+        23.4,
+        19.4,
+        14.806
+      ]
+    },
+    "CandyHouse_Gingerbread_Glow": {
+      "passed": true,
+      "fails": [],
+      "tris": 108,
+      "size": [
+        21.2,
+        17.2,
+        13.946
+      ]
+    },
+    "CandyHouse_Gingerbread_Door": {
+      "passed": true,
+      "fails": [],
+      "tris": 884,
+      "size": [
+        6.128,
+        2.7,
+        11.158
+      ]
+    },
+    "CandyHouse_Gingerbread_Lights": {
+      "passed": true,
+      "fails": [],
+      "tris": 900,
+      "size": [
+        24.694,
+        20.224,
+        12.333
+      ]
+    }
+  },
+  "floating": {
+    "shells": 575,
+    "floating": 0,
+    "examples": []
+  },
+  "total_tris": 13112,
+  "size": [
+    26.2,
+    22.0,
+    27.2
+  ]
+}

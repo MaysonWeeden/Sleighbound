@@ -1,0 +1,35 @@
+{
+  "modules": {
+    "Road_Crosswalk_Base": {
+      "passed": true,
+      "fails": [],
+      "tris": 108,
+      "size": [
+        31.998,
+        31.998,
+        0.9
+      ]
+    },
+    "Road_Crosswalk_Marks": {
+      "passed": true,
+      "fails": [],
+      "tris": 480,
+      "size": [
+        31.706,
+        31.712,
+        1.773
+      ]
+    }
+  },
+  "floating": {
+    "shells": 33,
+    "floating": 0,
+    "examples": []
+  },
+  "total_tris": 588,
+  "size": [
+    32.0,
+    32.0,
+    2.1
+  ]
+}
